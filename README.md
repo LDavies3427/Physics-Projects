@@ -3,7 +3,7 @@
 This repository showcases selected projects from my **MPhys in Theoretical Physics**, demonstrating analytical problem-solving, numerical modelling, and programming applied to physical systems.  
 The projects highlight skills in **Python**, **NumPy**, **SciPy**, **Matplotlib**, and **Numba**, with applications spanning **quantum mechanics**, **thermodynamics**, and **simulation**
 
-## 🧮 Contents
+## Contents
 
 ### 1. [2D Ising Model Ferromagnetic-Paramagnetic Phase Transtion Modelling](./numba_acceleration)
 Code and Results --- Ref.["Main_Script_With_Numba.ipynb"]
@@ -34,16 +34,16 @@ over time. The resulting heatmap reproduced the light-cone pattern predicted by 
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 `Python` · `NumPy` · `SciPy` · `Matplotlib` · `Numba` · `LaTeX`
 
 ---
 
-## 💡 About
+##  About
 Created by **Liam Davies**, MPhys Theoretical Physics student.  
 Interested in **innovation, technology, and intellectual property**, particularly in roles bridging **science and law** such as **patent attorney training**.
 
-- 📍 Location: UK  
-- 📧 Contact: liamdavies3427@gmail.com  
-- 🌐 LinkedIn: https://www.linkedin.com/in/liam-davies-uol/
+- Location: UK  
+- Contact: liamdavies3427@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/liam-davies-uol/
 
