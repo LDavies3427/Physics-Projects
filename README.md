@@ -6,7 +6,7 @@ The projects highlight skills in **Python**, **NumPy**, **SciPy**, **Matplotlib*
 ## 🧮 Contents
 
 ### 1. [2D Ising Model Ferromagnetic-Paramagnetic Phase Transtion Modelling](./numba_acceleration)
-Ref["Main_Script_With_Numba.ipynb"]
+Ref.["Main_Script_With_Numba.ipynb"]
 
 Investigation of **just-in-time compilation** using Numba to accelerate computational physics code.  
 Benchmarks performance improvements over standard Python implementations and analyses scalability for large numerical systems.
