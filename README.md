@@ -34,11 +34,6 @@ over time. The resulting heatmap reproduced the light-cone pattern predicted by 
 
 ---
 
-### 3. [Machine Learning in Physics (in progress)](./machine_learning_physics)
-
-
----
-
 ## ⚙️ Technologies Used
 `Python` · `NumPy` · `SciPy` · `Matplotlib` · `Numba` · `Scikit-learn` · `Git` · `LaTeX`
 
