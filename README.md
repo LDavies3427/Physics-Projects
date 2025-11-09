@@ -19,7 +19,8 @@ The critical temperature was estimated from the peaks of heat capacity and magne
 ---
 
 ### 2. [Quantum Ising Chain Simulation - Producing the Lieb-Robinson Light Cone ](./quantum_ising_model)
-Ref.["Collated 1D Ising Code.py"]
+Code - Ref.["Collated 1D Ising Code.py"]
+Results - Ref.["Lieb-Robinson Light Cone.png"]
 
 Python implementation of the **1D transverse-field Ising model**, including Hamiltonian construction, eigenvalue analysis, and time-evolution simulations.  
 Visualises magnetisation dynamics over time and explores the effects of perturbations on the quantum ground state.
