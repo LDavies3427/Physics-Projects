@@ -1,7 +1,7 @@
 # Physics Computations and Modelling
 
 This repository showcases selected projects from my **MPhys in Theoretical Physics**, demonstrating analytical problem-solving, numerical modelling, and programming applied to physical systems.  
-The projects highlight skills in **Python**, **NumPy**, **SciPy**, **Matplotlib**, and **Numba**, with applications spanning **quantum mechanics**, **simulation**, and **machine learning**.
+The projects highlight skills in **Python**, **NumPy**, **SciPy**, **Matplotlib**, and **Numba**, with applications spanning **quantum mechanics**, **thermodynamics**, and **simulation**
 
 ## 🧮 Contents
 
@@ -35,7 +35,7 @@ over time. The resulting heatmap reproduced the light-cone pattern predicted by 
 ---
 
 ## ⚙️ Technologies Used
-`Python` · `NumPy` · `SciPy` · `Matplotlib` · `Numba` · `Scikit-learn` · `Git` · `LaTeX`
+`Python` · `NumPy` · `SciPy` · `Matplotlib` · `Numba` · `LaTeX`
 
 ---
 
