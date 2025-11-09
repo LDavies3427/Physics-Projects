@@ -5,15 +5,7 @@ The projects highlight skills in **Python**, **NumPy**, **SciPy**, **Matplotlib*
 
 ## 🧮 Contents
 
-### 1. [Quantum Ising Chain Simulation](./quantum_ising_model)
-Python implementation of the **1D transverse-field Ising model**, including Hamiltonian construction, eigenvalue analysis, and time-evolution simulations.  
-Visualises magnetisation dynamics over time and explores the effects of perturbations on the quantum ground state.
-
-*Skills:* Quantum systems, matrix algebra, numerical simulation, scientific plotting.
-
----
-
-### 2. [Numba-Accelerated Computation](./numba_acceleration)
+### 1. [Numba-Accelerated Computation](./numba_acceleration)
 Investigation of **just-in-time compilation** using Numba to accelerate computational physics code.  
 Benchmarks performance improvements over standard Python implementations and analyses scalability for large numerical systems.
 
@@ -21,11 +13,16 @@ Benchmarks performance improvements over standard Python implementations and ana
 
 ---
 
-### 3. [Machine Learning in Physics (in progress)](./machine_learning_physics)
-An exploratory project applying **machine learning** techniques to identify patterns and relationships in simulated physical data.  
-Planned models include regression and classification approaches using `scikit-learn`.
+### 2. [Quantum Ising Chain Simulation](./quantum_ising_model)
+Python implementation of the **1D transverse-field Ising model**, including Hamiltonian construction, eigenvalue analysis, and time-evolution simulations.  
+Visualises magnetisation dynamics over time and explores the effects of perturbations on the quantum ground state.
 
-*Skills:* Python, data science, machine learning, applied physics.
+*Skills:* Quantum systems, matrix algebra, numerical simulation, scientific plotting.
+
+---
+
+### 3. [Machine Learning in Physics (in progress)](./machine_learning_physics)
+
 
 ---
 
