@@ -27,10 +27,7 @@ Visualises magnetisation dynamics over time and explores the effects of perturba
 Simulated the time evolution of a 1D quantum spin chain to reproduce the Lieb–Robinson light cone, which bounds the propagation speed of quantum correlations.
 The Hamiltonian included nearest-neighbour spin coupling and an external field, and the central spin was flipped to create a localised excitation.
 
-Using matrix exponentiation to solve the Schrödinger equation numerically, the simulation tracked site-resolved magnetisation
-
-\langle \sigma_z^j(t) \rangle
-
+Using matrix exponentiation to solve the Schrödinger equation numerically, the simulation tracked site-resolved magnetisation ⟨σ_z^j(t)⟩
 over time. The resulting heatmap reproduced the light-cone pattern predicted by Lieb and Robinson, showing that correlations propagate outward at a finite maximum velocity — consistent with experimental results from trapped-ion systems.
 
 *Skills:* Quantum systems, matrix algebra, numerical simulation, scientific plotting.
