@@ -6,7 +6,7 @@ The projects highlight skills in **Python**, **NumPy**, **SciPy**, **Matplotlib*
 ## 🧮 Contents
 
 ### 1. [2D Ising Model Ferromagnetic-Paramagnetic Phase Transtion Modelling](./numba_acceleration)
-Ref.["Main_Script_With_Numba.ipynb"]
+Code and Results --- Ref.["Main_Script_With_Numba.ipynb"]
 
 Investigation of **just-in-time compilation** using Numba to accelerate computational physics code.  
 Benchmarks performance improvements over standard Python implementations and analyses scalability for large numerical systems.
@@ -19,8 +19,8 @@ The critical temperature was estimated from the peaks of heat capacity and magne
 ---
 
 ### 2. [Quantum Ising Chain Simulation - Producing the Lieb-Robinson Light Cone ](./quantum_ising_model)
-Code - Ref.["Collated 1D Ising Code.py"]
-Results - Ref.["Lieb-Robinson Light Cone.png"]
+Code --- Ref.["Collated 1D Ising Code.py"]
+Results --- Ref.["Lieb-Robinson Light Cone.png"]
 
 Python implementation of the **1D transverse-field Ising model**, including Hamiltonian construction, eigenvalue analysis, and time-evolution simulations.  
 Visualises magnetisation dynamics over time and explores the effects of perturbations on the quantum ground state.
